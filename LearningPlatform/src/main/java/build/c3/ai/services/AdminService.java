@@ -1,4 +1,4 @@
-package build.c3.ai.adminservice;
+package build.c3.ai.services;
 
 import org.springframework.stereotype.Service;
 

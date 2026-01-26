@@ -1,10 +1,10 @@
-package build.c3.ai.authcontroller;
+package build.c3.ai.controller;
 
 import org.springframework.web.bind.annotation.*;
 
-import build.c3.ai.authservice.AuthService;
 import build.c3.ai.entity.User;
 import build.c3.ai.jwtutil.JwtUtil;
+import build.c3.ai.services.AuthService;
 
 import java.util.Map;
 
